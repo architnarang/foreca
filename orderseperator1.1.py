@@ -1,3 +1,4 @@
+#code which seperates the numerical part from the tex/string/input
 from string import digits
 
 a=input()
