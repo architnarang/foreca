@@ -1,3 +1,4 @@
+#sample program which exports the list to xlsx file
 import xlsxwriter
 workbook=xlsxwriter.Workbook('C:\\Users\\sahay\\Desktop\\python\\order_placement.xlsx')
 worksheet=workbook.add_worksheet("Sample")
