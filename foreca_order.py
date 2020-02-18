@@ -1,3 +1,6 @@
+#the code w/o the spell checker
+#it just shows that there is an incorrect spelling but doesnt specify which one.
+
 import re
 import xlsxwriter
 from string import digits
