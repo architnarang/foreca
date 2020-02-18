@@ -1,3 +1,5 @@
+'''This contains the whole code'''
+
 import re
 import xlsxwriter
 from string import digits
