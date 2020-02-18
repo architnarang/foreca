@@ -1,3 +1,6 @@
+#this code inputs the order,seperates the numerical part from the text and then exports it into a xlsx file.
+#change line 16 according to the location of the xlsx file in your computer.
+
 import re
 import xlsxwriter
 print("Please seperate vegetables using a comma(,)")
